@@ -1,2 +1,0 @@
-
-Python is an interpreted general purpose high level programming language. Python was developed to teach elementary school kids programming. Python makes use of indentation. Python is case-sensitive, interpreted language. Python is used extensively in machine learning.
